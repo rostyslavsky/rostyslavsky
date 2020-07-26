@@ -175,6 +175,9 @@ body {
   margin-left: 148px;
   margin-top: 110px;
 }
+
+/*
+
 .logo {
   width: 102px;
   height: 83px;
@@ -184,7 +187,9 @@ body {
   top: 5%;
 }
 
-/* .man_circle {
+/* 
+
+.man_circle {
   width: 230px;
   height: 230px;
   border-radius: 50%;
