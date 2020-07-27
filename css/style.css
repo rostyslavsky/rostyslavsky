@@ -175,31 +175,6 @@ body {
   margin-left: 148px;
   margin-top: 110px;
 }
-.logo {
-  width: 102px;
-  height: 83px;
-  background-image: url(../layout/img/logo.png);
-  position: absolute;
-  left: 1%;
-  top: 5%;
-}
-
-/* .man_circle {
-  width: 230px;
-  height: 230px;
-  border-radius: 50%;
-  border: 2px solid #fff;
-  position: absolute;
-}
-.man-one {
-  top: 142px;
-  margin-left: 25px;
-}
-.man-two {
-  top: 142px;
-  margin-left: 86px;
-} */
-
 .offer {
   position: absolute;
   top: 50%;
